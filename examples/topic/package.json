@@ -9,7 +9,7 @@
     },
     "dependencies": {
         "@pulumi/pulumi": "^2.0.0",
-        "node-fetch": "^2.2.0",
+        "node-fetch": "^3.1.1",
         "@pulumi/aws": "^3.0.0"
     },
     "devDependencies": {
